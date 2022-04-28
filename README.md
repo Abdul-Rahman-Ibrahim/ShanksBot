@@ -1,5 +1,5 @@
 # ShanksBot
-William Shanks - Reciprocal of Prime Numbers
+William Shanks - Reciprocal of Prime Numbers\n
 This bot calculates the number of figures in the period of the reciprocal of prime numbers
 Given the reciprocal of a prime number 1/n, the bot computes how many digit of 1/n comes before it starts to repeat.
 Example. n = 7
