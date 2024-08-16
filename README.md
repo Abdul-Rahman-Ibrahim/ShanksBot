@@ -60,4 +60,3 @@ Contributions and improvements are welcome! Feel free to submit issues or pull r
 - **Notes**: Mentions special cases and behavior.
 - **License & Contributions**: Encourages open-source collaboration.
 
-This structure should cover all the essentials for your project. Feel free to modify it as needed!
