@@ -1,6 +1,6 @@
 # Shanks Bot - Prime Number Reciprocal Finder
 
-This Python project calculates the reciprocal of a prime number and determines where the repeating sequence (Shanks) begins in the decimal expansion. The program performs long division manually and identifies the repeating part of the reciprocal.
+This Python script calculates the reciprocal of a prime number and determines where the repeating sequence (Shanks) begins in the decimal expansion. The program performs long division manually and identifies the repeating part of the reciprocal.
 
 ## Features
 
