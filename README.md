@@ -41,22 +41,3 @@ shanks_bot(prime_number): Performs long division to find the reciprocal and iden
 Notes
 The input number must be a prime number; otherwise, the program will exit.
 The program efficiently handles both finite and repeating decimals.
-License
-This project is open-source and available for anyone to use and modify under the MIT License.
-
-Author
-This project was created by Abdul-Rahman Ibrahim.
-
-Contributions
-Contributions and improvements are welcome! Feel free to submit issues or pull requests for new features or fixes.
-
-
-### Sections:
-- **Project Overview**: Describes what the project does.
-- **Features**: Summarizes the key functionalities.
-- **Getting Started**: Provides instructions for running the project.
-- **Example**: Shows example input/output for clarity.
-- **Functions**: Lists the primary functions and their purposes.
-- **Notes**: Mentions special cases and behavior.
-- **License & Contributions**: Encourages open-source collaboration.
-
